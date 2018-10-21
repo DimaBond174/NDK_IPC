@@ -1,0 +1,1 @@
+include ':ipc_ndk1', ':ipc_ndk2', ':ipclib', ':ipc_ndk3'
